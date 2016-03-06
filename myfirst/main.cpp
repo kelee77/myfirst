@@ -8,8 +8,12 @@
 
 #include <iostream>
 
-int main(int argc, const char * argv[]) {
-    // insert code here...
-    std::cout << "Hello, World!\n";
+int main(int argc, const char * argv[])
+{
+    using namespace std;
+    
+    cout << "Come up and C++ me some time.";
+    cout << endl;
+    cout << "You won't rgret it!" << endl;
     return 0;
 }
